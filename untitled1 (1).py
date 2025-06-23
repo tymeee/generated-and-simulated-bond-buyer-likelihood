@@ -34,7 +34,7 @@ MODEL_DIR = '' # Set to an empty string to look in the current directory (repo r
 # MODEL_DIR = '/content/drive/My Drive/Colab Notebooks/models' # Example: full path in Drive
 
 
-MODEL_NAME = 'xgboost_bond_group_model.json' # Make sure this EXACTLY matches your saved model file
+MODEL_NAME = 'xgboost_bond_group_model_v1.json' # Make sure this EXACTLY matches your saved model file
 ENCODER_NAME = 'onehot_encoder.joblib' # Make sure this EXACTLY matches your saved encoder file
 
 # Full paths for the model and encoder files
